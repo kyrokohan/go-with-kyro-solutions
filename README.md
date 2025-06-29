@@ -24,5 +24,6 @@ Welcome! This repository is a collection of practical, bite-sized Go mini-projec
 | #  | Project    | Category      | What you'll practice                           |
 |----|-----------|--------------|-----------------------------------------------|
 | 01 | Hello CLI | Fundamentals | Parsing CLI flags, basic I/O, string formatting |
+| 02 | FizzBuzz Variants | Fundamentals | Loops, conditionals, modulo arithmetic |
 
 _We will expand this table as new projects are added._
