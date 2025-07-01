@@ -1,6 +1,6 @@
 # Go With Kyro – Hands-On Guide
 
-Welcome! This repository is a collection of practical, bite-sized Go mini-projects organised by difficulty. Each project focuses on a specific concept so you can learn by building.
+Welcome! This repository is a collection of practical, bite-sized Go mini-projects organized by difficulty. Each project focuses on a specific concept so you can learn by building.
 
 ## Repository structure
 
@@ -8,18 +8,20 @@ Welcome! This repository is a collection of practical, bite-sized Go mini-projec
 - **Project naming**: `##-project-name` (e.g. `01-hello-cli`)
 - **Branches**
   - `main` – starter files & exercise descriptions only
-  - `solutions` – reference implementations for every project
+  - `solutions` – reference implementations for every project, each containing two solution modules:
+    - `base/` – completes the required goals only
+    - `stretch/` – completes both the required and the stretch goals
 
 ## How to use this guide
 
 1. Clone the repo (or fork it) and stay on the `main` branch.
-2. Pick a project from the catalogue below.
+2. Pick a project from the catalog below.
 3. Open its `README.md`, read the requirements, and build your solution.
 4. When you are happy with your work, compare it with the official answer by switching to the `solutions` branch.
 
-> ⚡️ Tip: Tackle the projects in order—they gently ramp up in difficulty.
+> ⚡️ Tip: Tackle the projects in order. They gently ramp up in difficulty.
 
-## Project catalogue
+## Project catalog
 
 | #  | Project    | Category      | What you'll practice                           |
 |----|-----------|--------------|-----------------------------------------------|
