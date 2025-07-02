@@ -9,7 +9,7 @@ Welcome! This repository is a collection of practical, bite-sized Go mini-projec
 - **Branches**
   - `main` – starter files & exercise descriptions only
   - `solutions` – reference implementations for every project, each containing two solution modules:
-    - `base/` – completes the required goals only
+    - `goal/` – completes the required goals only
     - `stretch/` – completes both the required and the stretch goals
 
 ## How to use this guide
