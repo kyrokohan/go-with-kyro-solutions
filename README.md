@@ -1,31 +1,25 @@
-# Go With Kyro – Hands-On Guide
+# Go With Kyro – Solutions Repository
 
-Welcome! This repository is a collection of practical, bite-sized Go mini-projects organized by difficulty. Each project focuses on a specific concept so you can learn by building.
+This repository **only** contains the reference implementations for every exercise in the "Go With Kyro" learning series.
 
-## Repository structure
+Each project lives inside its difficulty-level folder (`fundamentals`, `intermediate`, `advanced`, `expert`) and follows the exact same structure as the prompts:
 
-- **Difficulty folders**: `fundamentals`, `intermediate`, `advanced`, `expert`
-- **Project naming**: `##-project-name` (e.g. `01-hello-cli`)
-- **Branches**
-  - `main` – starter files & exercise descriptions only
-  - `solutions` – reference implementations for every project, each containing two solution modules:
-    - `goal/` – completes the required goals only
-    - `stretch/` – completes both the required and the stretch goals
+- `goal`   – a minimal solution that satisfies the required goals.
+- `stretch` – an extended solution that also tackles the optional stretch goals.
 
-## How to use this guide
+The actual project descriptions, learning objectives, and step-by-step instructions are hosted in the companion repository:
 
-1. Clone the repo (or fork it) and stay on the `main` branch.
-2. Pick a project from the catalog below.
-3. Open its `README.md`, read the requirements, and build your solution.
-4. When you are happy with your work, compare it with the official answer by switching to the `solutions` branch.
+➡️  **Project prompts:** <https://github.com/kyrokohan/go-with-kyro>
 
-> ⚡️ Tip: Tackle the projects in order. They gently ramp up in difficulty.
+If you are *starting* an exercise, head over to that repo first. Once you have attempted a project on your own, come back here to compare your approach with the provided solutions.
 
-## Project catalog
+---
 
-| #  | Project    | Category      | What you'll practice                           |
-|----|-----------|--------------|-----------------------------------------------|
-| 01 | Hello CLI | Fundamentals | Parsing CLI flags, basic I/O, string formatting |
-| 02 | FizzBuzz | Fundamentals | Loops, conditionals, modulo arithmetic |
+## Using the Solutions
 
-_We will expand this table as new projects are added._
+1. Clone this repository alongside `go-with-kyro` so you can easily switch between the prompts and the code.
+2. Navigate to the project and difficulty you are working on.
+3. Review the code in the `goal` folder to verify your implementation.
+4. Dive into the `stretch` folder when you are ready for the extra challenges.
+
+Happy coding! 
